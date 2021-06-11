@@ -11,6 +11,7 @@ To Do list is a simple web application to save your daily tasks and organize the
 * HTML
 * CSS
 * JavaScript
+* EJS
 * Node.js
 * MongoDB
 * Heroku
